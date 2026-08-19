@@ -273,30 +273,6 @@ Worked on an analytics solution focused on employee production, productivity and
 
 **AI & Machine Learning with Python — 2023**
 
-### AWS
-
-<p>
-  <img src="https://img.shields.io/badge/AWS-Coming%20Soon-312E81?style=for-the-badge&logo=amazon-aws&logoColor=white" />
-</p>
-
-### Oracle
-
-<p>
-  <img src="https://img.shields.io/badge/Oracle-Coming%20Soon-6D28D9?style=for-the-badge&logo=oracle&logoColor=white" />
-</p>
-
-### NPTEL
-
-<p>
-  <img src="https://img.shields.io/badge/NPTEL-Coming%20Soon-4C1D95?style=for-the-badge&logo=nptel&logoColor=white" />
-</p>
-
-### Cisco
-
-<p>
-  <img src="https://img.shields.io/badge/Cisco-Coming%20Soon-312E81?style=for-the-badge&logo=cisco&logoColor=white" />
-</p>
-
 ---
 
 ## 💻 Coding Profiles
@@ -311,9 +287,6 @@ Worked on an analytics solution focused on employee production, productivity and
   <a href="https://www.hackerrank.com/">
     <img src="https://img.shields.io/badge/HackerRank-312E81?style=for-the-badge&logo=hackerrank&logoColor=white" />
   </a>
-  <a href="https://www.codechef.com/">
-    <img src="https://img.shields.io/badge/CodeChef-6D28D9?style=for-the-badge&logo=codechef&logoColor=white" />
-  </a>
 </p>
 
 ---
@@ -321,12 +294,12 @@ Worked on an analytics solution focused on employee production, productivity and
 ## 📊 GitHub Analytics
 
 <p align="center">
-  <img height="180" src="https://github-readme-stats.vercel.app/api?username=YOUR_GITHUB_USERNAME&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=8B5CF6&icon_color=7C3AED&text_color=C4B5FD" />
-  <img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_GITHUB_USERNAME&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=8B5CF6&text_color=C4B5FD" />
+  <img height="180" src="https://github-readme-stats.vercel.app/api?username=DevSonali221&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=8B5CF6&icon_color=7C3AED&text_color=C4B5FD" />
+  <img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=DevSonali221&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=8B5CF6&text_color=C4B5FD" />
 </p>
 
 <p align="center">
-  <img width="70%" src="https://streak-stats.demolab.com/?user=YOUR_GITHUB_USERNAME&theme=tokyonight&hide_border=true&background=0D1117&ring=8B5CF6&fire=7C3AED&currStreakLabel=C4B5FD" />
+  <img width="70%" src="https://streak-stats.demolab.com/?user=DevSonali221&theme=tokyonight&hide_border=true&background=0D1117&ring=8B5CF6&fire=7C3AED&currStreakLabel=C4B5FD" />
 </p>
 
 ---
@@ -334,7 +307,7 @@ Worked on an analytics solution focused on employee production, productivity and
 ## 🏅 GitHub Trophies
 
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=YOUR_GITHUB_USERNAME&theme=discord&no-frame=true&no-bg=true&margin-w=8&row=1&column=7" />
+  <img src="https://github-profile-trophy.vercel.app/?username=DevSonali221&theme=discord&no-frame=true&no-bg=true&margin-w=8&row=1&column=7" />
 </p>
 
 ---
@@ -342,7 +315,7 @@ Worked on an analytics solution focused on employee production, productivity and
 ## 📈 Contribution Activity
 
 <p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=YOUR_GITHUB_USERNAME&bg_color=0D1117&color=C4B5FD&line=8B5CF6&point=7C3AED&area=true&hide_border=true" width="100%" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=DevSonali221&bg_color=0D1117&color=C4B5FD&line=8B5CF6&point=7C3AED&area=true&hide_border=true" width="100%" />
 </p>
 
 ---
