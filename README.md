@@ -2,9 +2,9 @@
   <img src="https://capsule-render.vercel.app/api?type=waving&color=0:4c1d95,50:6d28d9,100:312e81&height=180&section=header&text=SONALI%20KUMARI&fontSize=42&fontColor=ffffff&fontAlignY=38&animation=fadeIn" width="100%" />
 </p>
 <p align="center">
-  <img src="https://img.shields.io/badge/MCA-AI%20%26%20ML-6D28D9?style=for-the-badge&logo=academia&logoColor=white" />
-  <img src="https://img.shields.io/badge/BCA-CGPA%209.12-4C1D95?style=for-the-badge&logo=google-scholar&logoColor=white" />
-  <img src="https://img.shields.io/badge/Location-India-312E81?style=for-the-badge&logo=googlemaps&logoColor=white" />
+  <a href="https://readme-typing-svg.demolab.com/?font=Fira+Code&weight=600&size=22&pause=1000&color=8B5CF6&center=true&vCenter=true&width=750&lines=MCA+%7C+Artificial+Intelligence+%26+Machine+Learning;Data+Analytics+%7C+Python+%7C+SQL+%7C+Power+BI;Machine+Learning+%7C+Data+Engineering+%7C+Problem+Solving;Building+Data-Driven+Solutions+with+Business+Impact" target="_blank">
+    <img src="https://readme-typing-svg.demolab.com/?font=Fira+Code&weight=600&size=22&pause=1000&color=8B5CF6&center=true&vCenter=true&width=750&lines=MCA+%7C+Artificial+Intelligence+%26+Machine+Learning;Data+Analytics+%7C+Python+%7C+SQL+%7C+Power+BI;Machine+Learning+%7C+Data+Engineering+%7C+Problem+Solving;Building+Data-Driven+Solutions+with+Business+Impact" alt="Typing SVG" />
+  </a>
 </p>
 
 <p align="center">
